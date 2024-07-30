@@ -1,1 +1,1 @@
-# bash
+ # mysql-backup.sh
