@@ -10,7 +10,7 @@
                           | |                                     
                           |_
  
-Create a script to back up a database (e.g., MySQL, PostgreSQL). The script should:
+*Create a script to back up a database (e.g., MySQL, PostgreSQL). The script should:
 
 * Support both full and incremental backups.
 * Allow scheduling backups using cron.
@@ -20,8 +20,8 @@ Create a script to back up a database (e.g., MySQL, PostgreSQL). The script shou
 
 ------------------------------------------------------------------------------------
 
-4. File Synchronization Script
-Write a script to synchronize files between two directories. The script should:
+* File Synchronization Script
+* Write a script to synchronize files between two directories. The script should:
 * Support one-way and two-way synchronization.
 * Detect and handle conflicts.
 * Provide options for excluding certain file types or directories.
