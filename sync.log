@@ -1,0 +1,54 @@
+2024-08-01 06:22:28 - Starting one-way synchronization from /home/hellal/Desktop/project/source to /home/hellal/Desktop/project/destination
+sending incremental file list
+./
+
+sent 63 bytes  received 19 bytes  164.00 bytes/sec
+total size is 0  speedup is 0.00
+2024-08-01 06:22:29 - Completed one-way synchronization from /home/hellal/Desktop/project/source to /home/hellal/Desktop/project/destination
+2024-08-01 06:24:36 - Starting one-way synchronization from /home/hellal/Desktop/project/source to /home/hellal/Desktop/project/destination
+sending incremental file list
+
+sent 56 bytes  received 12 bytes  136.00 bytes/sec
+total size is 0  speedup is 0.00
+2024-08-01 06:24:36 - Completed one-way synchronization from /home/hellal/Desktop/project/source to /home/hellal/Desktop/project/destination
+2024-08-01 06:25:38 - Starting one-way synchronization from /source to /dest
+sending incremental file list
+rsync: [generator] failed to set times on "/dest/.": Operation not permitted (1)
+./
+
+sent 57 bytes  received 19 bytes  152.00 bytes/sec
+total size is 0  speedup is 0.00
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1338) [sender=3.2.7]
+2024-08-01 06:25:38 - Completed one-way synchronization from /source to /dest
+2024-08-01 06:25:46 - Starting one-way synchronization from /home/hellal/Desktop/project/source to /home/hellal/Desktop/project/destination
+sending incremental file list
+
+sent 56 bytes  received 12 bytes  136.00 bytes/sec
+total size is 0  speedup is 0.00
+2024-08-01 06:25:47 - Completed one-way synchronization from /home/hellal/Desktop/project/source to /home/hellal/Desktop/project/destination
+2024-08-01 06:26:00 - Starting two-way synchronization between /source and /dest
+sending incremental file list
+rsync: [generator] failed to set times on "/dest/.": Operation not permitted (1)
+./
+
+sent 57 bytes  received 19 bytes  152.00 bytes/sec
+total size is 0  speedup is 0.00
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1338) [sender=3.2.7]
+2024-08-01 06:26:00 - Completed synchronization from /source to /dest
+sending incremental file list
+rsync: [generator] failed to set times on "/source/.": Operation not permitted (1)
+./
+
+sent 58 bytes  received 19 bytes  154.00 bytes/sec
+total size is 0  speedup is 0.00
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1338) [sender=3.2.7]
+2024-08-01 06:26:00 - Completed synchronization from /dest to /source
+2024-08-01 06:26:05 - Starting one-way synchronization from /source to /dest
+sending incremental file list
+rsync: [generator] failed to set times on "/dest/.": Operation not permitted (1)
+./
+
+sent 57 bytes  received 19 bytes  152.00 bytes/sec
+total size is 0  speedup is 0.00
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1338) [sender=3.2.7]
+2024-08-01 06:26:05 - Completed one-way synchronization from /source to /dest
