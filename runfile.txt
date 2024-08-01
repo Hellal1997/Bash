@@ -1,0 +1,3 @@
+# when i run this command logs and sync save and updating in sync.log
+
+./sync_files.sh -s /home/hellal/Desktop/project/source -d /home/hellal/Desktop/project/destination -m oneway -e exclude.txt -l sync.log
