@@ -1,0 +1,10 @@
+# Ensure the source and destination directories exist
+if [ ! -d "$SOURCE_DIR" ]; then
+    echo "Source directory does not exist: $SOURCE_DIR"
+    exit 1
+fi
+
+if [ ! -d "$DEST_DIR" ]; then
+    echo "Destination directory does not exist: $DEST_DIR"
+    exit 1
+fi
