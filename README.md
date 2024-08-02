@@ -84,10 +84,10 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![project bash][project bash]](https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/0d/963a6dc3314d6eb0460dedef1dc325/bash_final.png?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF)
+[![project bash][project bash]](https://images.ctfassets.net/aq13lwl6616q/395iMiqbPBUPQGGEluVUXT/ca0636cf2e4f182c5f5821386bcd02ee/Academy_3_Course_Thumbnail_-_Bash_Programming.png)
 
 Bash Project 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
   _____              ____              _____  ____  __  __  _____ 
  |  __ \            / __ \            |  __ \|  _ \|  \/  |/ ____|
