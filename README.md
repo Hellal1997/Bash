@@ -130,7 +130,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [![Laravel][Laravel.com]][Laravel-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url]
-* [![chatgpt][chatgpt.com]][chatgpt-url]
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -235,9 +235,13 @@ Don't forget to give the project a star! Thanks again!
 ## Contact
 
 Your Name - [@mohamed86692688](https://x.com/mohamed86692688) - mohamedsaad01095@gmail.com
+
 Mob:+201113331640
+
 Project Link: [https://github.com/your_username/repo_name](https://github.com/Hellal1997/Bash.git)
+
 Facebook link:[https://www.facebook.com/hellal88/](https://www.facebook.com/hellal88/)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
