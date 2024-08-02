@@ -30,19 +30,19 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/Hellal1997/Bash/blob/main/logo.png">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Bash-project-DEPI</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    Welcome to my bash project ^___^!
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://github.com/Hellal1997/Bash.git>View Demo</a>
     ·
     <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
@@ -83,7 +83,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![project bash][project bash]](https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/0d/963a6dc3314d6eb0460dedef1dc325/bash_final.png?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF)
 
 Bash Project 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -130,7 +130,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [![Laravel][Laravel.com]][Laravel-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url]
-* [![Bash][devhints.io/bash.com]][bash-url]
+* [![chatgpt][chatgpt.com]][chatgpt-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -177,7 +177,9 @@ _Below is an example of how you can instruct your audience on installing and set
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+_For more examples, please refer to the:
+[Dev](https://devhints.io/bash) 
+[chatgpt](https://openai.com/chatgpt/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -187,18 +189,24 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 ## Roadmap
 
 - [x] Support both full and incremental backups.
-   
-- [x] Allow scheduling backups using cron.
+- [x] Create a script to back up a database (e.g., MySQL, PostgreSQL). The script should:
+- [ ] Allow scheduling backups using cron.
 - [ ] Compress and store backup files.
-- [ ]  Handle database authentication securely.
-- [ ]      Optionally, upload backups to a remote server or cloud storage.
+- [ ] Handle database authentication securely.
+- [ ] Optionally, upload backups to a remote server or cloud storage.
 - [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
+- [x] File Synchronization Script : a script to synchronize files between two directories. The script should:
+- [ ] Support one-way and two-way synchronization.
+- [ ] Detect and handle conflicts.
+- [ ] Provide options for excluding certain file types or directories.
+- [ ] Log synchronization activities.
+
+    
+    
+    
     - [ ] English
   
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -222,22 +230,14 @@ Don't forget to give the project a star! Thanks again!
 
 
 
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- CONTACT -->
 ## Contact
 
 Your Name - [@mohamed86692688](https://x.com/mohamed86692688) - mohamedsaad01095@gmail.com
-
+Mob:+201113331640
 Project Link: [https://github.com/your_username/repo_name](https://github.com/Hellal1997/Bash.git)
-
+Facebook link:[https://www.facebook.com/hellal88/](https://www.facebook.com/hellal88/)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
