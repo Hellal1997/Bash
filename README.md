@@ -186,13 +186,17 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
+- [x] Support both full and incremental backups.
+   
+- [x] Allow scheduling backups using cron.
+- [ ] Compress and store backup files.
+- [ ]  Handle database authentication securely.
+- [ ]      Optionally, upload backups to a remote server or cloud storage.
 - [ ] Multi-language Support
     - [ ] Chinese
     - [ ] Spanish
+    - [ ] English
+  
 
 See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
 
@@ -230,9 +234,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Your Name - [@mohamed86692688](https://x.com/mohamed86692688) - mohamedsaad01095@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/your_username/repo_name](https://github.com/Hellal1997/Bash.git)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
