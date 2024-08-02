@@ -84,7 +84,7 @@ while true ;do
             3) connect_database ;;
             4) drop_database ;;
             5) exit 0 ;;
-            *) echo "Invalid your chosse. Please try again." ;;
+            *) echo "Invalid your choose. Please try again." ;;
     esac
 done
 
