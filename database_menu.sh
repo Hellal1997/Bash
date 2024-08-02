@@ -1,8 +1,5 @@
 #!/bin/bash
 
-source ./db_fun.sh
-
-
 
 create_database(){
         read -p " join database name " db_name
