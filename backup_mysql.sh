@@ -1,10 +1,10 @@
 #!/bin/bash
 
 # Configurations
-DB_USER="your_db_user"
-DB_PASSWORD="your_db_password"
-DB_NAME="your_db_name"
-BACKUP_DIR="/path/to/your/backup/directory"
+DB_USER="hellal"
+DB_PASSWORD="246810"
+DB_NAME="hellal"
+BACKUP_DIR="/home/hellal/db_backups"
 FULL_BACKUP_DIR="$BACKUP_DIR/full"
 INCREMENTAL_BACKUP_DIR="$BACKUP_DIR/incremental"
 LAST_BACKUP_FILE="$BACKUP_DIR/last_backup.txt"
