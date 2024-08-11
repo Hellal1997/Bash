@@ -1,23 +1,20 @@
-# Use an official base image
-FROM ubuntu:latest
+# Use an official Python runtime as a parent image
+FROM python:3.9-slim
 
-# Set environment variables
-ENV DEBIAN_FRONTEND=noninteractive
-
-# Install dependencies
-RUN apt-get update && apt-get install -y \
-    curl \
-    git \
-    vim
-
-# Set the working directory
+# Set the working directory in the container
 WORKDIR /app
 
-# Copy files into the container
+# Copy the current directory contents into the container at /app
 COPY . /app
 
-# Expose a port (if needed)
-EXPOSE 8080
+# Install any needed packages specified in requirements.txt
+RUN pip install --no-cache-dir -r requirements.txt
 
-# Define the command to run the application
-CMD ["bash"]
+# Make port 80 available to the world outside this container
+EXPOSE 80
+
+# Define environment variable
+ENV NAME World
+
+# Run app.py when the container launches
+CMD ["python", "app.py"]
