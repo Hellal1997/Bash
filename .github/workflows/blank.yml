@@ -25,7 +25,7 @@ jobs:
 
     - name: Build the Docker image
       run: |
-        IMAGE_TAG=mohamedhellal/my-image:1
+        IMAGE_TAG=mohamedhellal/my-image:latest
         docker build . --file Dockerfile --tag $IMAGE_TAG
 
     - name: List Docker images
@@ -33,5 +33,5 @@ jobs:
 
     - name: Push the Docker image
       run: |
-        IMAGE_TAG=mohamedhellal/my-image:1
+        IMAGE_TAG=mohamedhellal/my-image:latest
         docker push $IMAGE_TAG
