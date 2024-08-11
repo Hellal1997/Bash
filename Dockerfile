@@ -1,12 +1,23 @@
-# Dockerfile
-FROM nginx
+# Use an official base image
+FROM ubuntu:latest
 
-COPY nginx.config /etc/nginx/nginx.config
+# Set environment variables
+ENV DEBIAN_FRONTEND=noninteractive
 
-RUN rm -rf /usr/share/nginx/html/*
+# Install dependencies
+RUN apt-get update && apt-get install -y \
+    curl \
+    git \
+    vim
 
-COPY html /usr/share/nginx/html
+# Set the working directory
+WORKDIR /app
 
+# Copy files into the container
+COPY . /app
+
+# Expose a port (if needed)
 EXPOSE 8080
- 
-CMD ["nginx", "-g", "daemon off;"]
+
+# Define the command to run the application
+CMD ["bash"]
