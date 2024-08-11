@@ -22,5 +22,6 @@ jobs:
 
     - name: Build and push Docker image
       run: |
-        docker build -t mohamedhellal/bash-dbms:tagname .
-        docker push mohamedhellal/bash-dbms:tagname
+        docker build -t mohamedhellal/bash-dbms:v1.0.0 .
+        docker push mohamedhellal/bash-dbms:v1.0.0
+
